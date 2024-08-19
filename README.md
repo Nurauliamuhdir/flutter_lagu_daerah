@@ -16,6 +16,9 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 hasil tampilan homepage
+
 ![image](https://github.com/user-attachments/assets/258248e9-228d-43ec-a451-3910b34bc3f6)
+
 hasil tampilan detailPage
+
 ![image](https://github.com/user-attachments/assets/342dc049-8e4d-4c84-bc92-cf0ca9e68633)
